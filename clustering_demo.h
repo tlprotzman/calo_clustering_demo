@@ -45,6 +45,7 @@ class clustering_demo : public SubsysReco
 
     TH1F *cluster_energy;
     TH1F *tower_energy;
+    TH1F *energy_fraction;
 
     TH3F *cluster_xyz;
 
